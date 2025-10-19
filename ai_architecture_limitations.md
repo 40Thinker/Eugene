@@ -1,6 +1,6 @@
 # Major Problems That Current AI Architectures Cannot Solve
 
-This document lists the fundamental problems that existing AI architectures cannot address, drawing from various schools of AI development over the past 80 years.
+This document lists the fundamental problems that existing AI architectures cannot address, drawing from various schools of AI development over the past several decades.
 
 ## 1. Self-Evolution During Operation
 Current AI systems cannot autonomously modify their own architecture or learning strategies while working:
