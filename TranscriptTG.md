@@ -1,0 +1,3 @@
+TelegramNote
+{{voiceTranscript}}
+EndOfTelegramNote
