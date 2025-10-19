@@ -1,10 +1,15 @@
 *
-!0_CoreConceptOfLife
+!/0_FolderStructure
+YUDKOWSKY/
 .obsidian/
 .smtcmp_json_db/
 .smart-env/
 .kilocode/
 .copilot-index/
+0_0Telegram/
+0_chatgpt/
+problem_set/
+Compute vs Работа мозгами инженеров/
 Nexus_attachments/
 copilot/
 ASI-development/
