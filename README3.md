@@ -28,7 +28,7 @@ This approach addresses fundamental limitations in current AI - scalability issu
    ↓
    [Output Generation] → [Knowledge Evolution]
 
-3. Start with [[Overlay AGI Comprehensive System Development.md]] for detailed architecture
+3. Start with [[Overlay AGI Comprehensive System Development]] for detailed architecture
 
 ## Why This Approach Matters
 
