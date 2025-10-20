@@ -7,3 +7,4 @@ conversation_id: 689bf3d4-41fc-8330-80f4-a6231ef9927b
 create_time: 13.08.2025 at 9:09
 update_time: 14.08.2025 at 17:36
 ---
+[[0_chatgpt/AI/2025-08-13 - 1Оценка ИИ через тест/01_kirill_agoge_13_08_2025_06_37]]
