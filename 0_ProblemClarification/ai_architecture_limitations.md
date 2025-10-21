@@ -53,3 +53,47 @@ Current AI cannot effectively regulate its own behavior without external constra
 - Limited capacity for autonomous decision-making about behavioral boundaries
 
 These limitations fundamentally constrain AI systems from achieving true intelligence and autonomy.
+**Блок ссылок для инженеров‑разработчиков Overlay Neuro‑Symbolic AGI/ASI**  
+
+---
+
+### 1️⃣ Вышестоящие идеи  
+*(общие концепты, в которые вписывается «ai_architecture_limitations»)*
+- [[01_Framework]] – базовый консенсусный фреймворк, задающий философские, архитектурные и технические критерии идеального интеллекта. Он определяет, какие свойства (само‑эволюция, метакогнитивность и т.п.) должны быть реализованы в любой продвинутой системе. [^1]  
+- [[02_Philosophical_Criteria]] – 10 философских требований (когнитивная целостность, моральное рассуждение, эпистемологическая глубина). Они напрямую контрастируют с отсутствием метакогнитивных способностей в текущих архитектурах. [^2]  
+- [[03_Architectural_Principles]] – 10 принципов (модульная интероперабельность, масштабируемость, динамическое распределение ресурсов). Ограничения «Self‑Evolution», «Memory Limitations» нарушают эти принципы. [^3]  
+- [[14_Comprehensive_AI_Architecture_Review]] – систематический обзор 50 ключевых компонентов ИИ (от топологий сетей до нейросимвольных интеграций). Он показывает, какие компоненты ещё не покрыты в современных моделях и почему возникают перечисленные проблемы. [^4]  
+- [[08_AI_Architecture_Review_Framework]] – методология анализа архитектурных блоков, используемая при построении обзора выше; помогает понять, где именно «ai_architecture_limitations» вписывается в более широкую картину. [^5]
+
+---
+
+### 2️⃣ Нижестоящие идеи  
+*(детализированные компоненты и примеры, раскрывающие каждое ограничение)*
+- [[09_Historical_AI_Architectures]] – исторический контекст развития нейронных сетей (перцептроны → RNN). Позволяет увидеть, как «absence of world model» возникло из ранних ограничений памяти и представления. [^6]  
+- [[12_AI_Architecture_Components_Part2]] – обзор конкретных архитектурных элементов (Multi‑Task Learning, Contrastive Learning, Sparsity Optimization и др.). Здесь описываются механизмы, которые могли бы смягчить «one‑shot learning», но в текущих реализациях они недостаточны. [^7]  
+- [[13_AI_Architecture_Components_Part3]] – продолжение обзора (Continuous Learning, Distributed Memory, Neurosymbolic Integration и т.п.). Эти компоненты являются потенциальными решениями для «self‑evolution» и «world model», однако их отсутствие в базовых LLM подчёркивает ограничения. [^8]  
+- [[Depth Limitations in Model Simulation]] – аналитика того, почему однострочные псевдокоды не способны моделировать глубокие цепочки рассуждений; объясняет проблему «hallucination» и нехватку «meta‑cognition». [^9]  
+
+---
+
+### 3️⃣ Прямо относящиеся к этой заметке  
+*(специфические документы, где уже обсуждаются те же ограничения)*
+- [[Limits of Overlay AGI in LLM Architectures]] – показывает, что даже в overlay‑подходах без человеческого участия возникают «hallucination», отсутствие «world model» и ограниченная «self‑evolution». [^10]  
+- [[Economic Limits of Emergent AI]] – связывает архитектурные проблемы (многоуровневые слои, RAG, LoRA) с экономической неэффективностью; подтверждает, что ограничения памяти и метакогнитивности делают масштабирование слишком дорогим. [^11]  
+- [[Inversional Safety for AGI]] – предлагает методику безопасных «self‑supervision» через предсказание последствий; тем самым напрямую реагирует на пункт 7 «Inability for Self‑Supervision». [^12]  
+
+---
+
+#### Sources
+[^1]: [[01_Framework]]  
+[^2]: [[02_Philosophical_Criteria]]  
+[^3]: [[03_Architectural_Principles]]  
+[^4]: [[14_Comprehensive_AI_Architecture_Review]]  
+[^5]: [[08_AI_Architecture_Review_Framework]]  
+[^6]: [[09_Historical_AI_Architectures]]  
+[^7]: [[12_AI_Architecture_Components_Part2]]  
+[^8]: [[13_AI_Architecture_Components_Part3]]  
+[^9]: [[Depth Limitations in Model Simulation]]  
+[^10]: [[Limits of Overlay AGI in LLM Architectures]]  
+[^11]: [[Economic Limits of Emergent AI]]  
+[^12]: [[Inversional Safety for AGI]]
