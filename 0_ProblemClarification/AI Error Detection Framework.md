@@ -173,6 +173,58 @@ created: 2025-08-13
 
 ---
 
+**Блок ссылок — помощник для инженеров, которые собираются реализовать Overlay Neuro‑Symbolic AGI/ASI**
+
+---
+
+### 📌 Вышестоящие идеи  
+
+| Ссылка | Почему это важно для проекта |
+|---|---|
+| [[01_Framework]] | Консенсус‑фреймворк, в котором объединены философские, архитектурные и технические критерии идеального ИИ. Он задаёт мета‑структуру, в которую впишется любой модуль — в том числе наш детектор ошибок [ ^1 ]. |
+| [[02_Philosophical_Criteria]] | Десять требований к когнитивной целостности (когнитивный интегритет, метакогнитивное осознание и др.). Они позволяют оценить, насколько система способна различать истинные и ложные выводы [ ^2 ]. |
+| [[03_Architectural_Principles]] | Принципы модульной интероперабельности, масштабируемой архитектуры и распределённого рассуждения. Именно они определяют, как встроить RAG‑слой и базу «Knowledge Lie Zones» в Overlay‑AGI [ ^3 ]. |
+| [[04_Technical_Capabilities]] | Набор технических возможностей (реальное‑время, быстрый рост знаний, кросс‑доменно­й перенос), необходимых для построения высокопроизводительного детектора ошибок [ ^4 ]. |
+| [[05_Practical_Excellence]] | Критерии надёжности, адаптивности контекста и качества UI, гарантирующие, что система будет понятна инженерам уровня middle – senior и пригодна к эксплуатации [ ^5 ]. |
+| [[08_AI_Architecture_Review_Framework]] | Методология обзора 50 архитектурных компонентов (RAG‑системы, гибридные модели, динамические веса). Всё это используется в нашем решении для построения O(1)‑поиска и оценки достоверности [ ^6 ]. |
+
+---
+
+### 📌 Нижестоящие идеи  
+
+| Ссылка | Почему это полезно при реализации детектора |
+|---|---|
+| [[СМЫСЛОВЫЕ И АРХИТЕКТУРНЫЕ СБОИ]] | Классификация семантического дрейфа, ложной согласованности и архитектурных «застой‑ситуаций». Позволяет построить метрики «плотность лжи» [ ^7 ]. |
+| [[Inversional Safety for AGI]] | Подход с модулями‑дистилляторами, предсказывающими последствия на 10 шагов вперёд. Аналогичен нашему модулю, который симулирует сценарий перед пометкой знания ошибочным [ ^8 ]. |
+| [[Three Negative Scenarios for AI Developers]] | Сценарии регулятивного давления и токен‑блокировки. Помогают предвидеть ограничения, которые могут влиять на работу детектора в продакшн‑среде [ ^9 ]. |
+| [[Limits of Overlay AGI in LLM Architectures]] | Анализ границ overlay‑моделей (не способны к фундаментальному переосмыслению). Показывает, где нужен внешний слой оценки качества знаний [ ^10 ]. |
+| [[Overlay AGI Comprehensive System Development]] | Подробное описание компонентов (Semantic Weight Tables, IT‑LM Selector, RAG) и их O(1)‑эффективности. Эти же компоненты служат базой для быстрой проверки достоверности данных [ ^11 ]. |
+
+---
+
+### 📌 Прямо относящиеся к этой заметке  
+
+| Ссылка | Что именно описывает |
+|---|---|
+| [[AI Error Detection Framework]] | Текущий документ, формализующий критерии ошибок знаний (воспроизводимость, практическую значимость, плотность лжи) и перечисляющий инструменты — LangChain, Neo4j, RAG, кастомный GUI — которые инженеры могут сразу взять в работу [ ^12 ]. |
+
+---
+
+#### 📚 Sources  
+
+[^1]: [[01_Framework]]  
+[^2]: [[02_Philosophical_Criteria]]  
+[^3]: [[03_Architectural_Principles]]  
+[^4]: [[04_Technical_Capabilities]]  
+[^5]: [[05_Practical_Excellence]]  
+[^6]: [[08_AI_Architecture_Review_Framework]]  
+[^7]: [[СМЫСЛОВЫЕ И АРХИТЕКТУРНЫЕ СБОИ]]  
+[^8]: [[Inversional Safety for AGI]]  
+[^9]: [[Three Negative Scenarios for AI Developers]]  
+[^10]: [[Limits of Overlay AGI in LLM Architectures]]  
+[^11]: [[Overlay AGI Comprehensive System Development]]  
+[^12]: [[AI Error Detection Framework]]
+
 ### 🔹 **Шаг 2 — Перевод на английский (exact sense):**
 
 > Answer to question number 2. The criterion for the presence of an error in a link of a concept, reasoning chain, or information (in terms of its incompleteness) is that the target result, for which this information is used, is not achieved. That’s the first criterion. For example, in sports: if you consult dozens of people and they start breaking their personal records, then there’s a sound core in your recommendations. But if they don’t reach the Olympic level — or don’t consistently move in that direction — then there are weak links. This is the quality control aspect. That is, if a person does not get a result, or is dissatisfied with it, then there is some kind of error, data incompleteness, something is wrong. Then, when you begin trying to systematize information and find that some links that should be present are missing, you attempt to estimate the size of the gap — by analogy with topics you know well. For instance, you may know one endurance-enhancing supplement very well but nothing about another. You know what kind of performance change should happen when using a known supplement, and you compare it with the unknown one. If it gives nothing — perhaps it’s not worth investigating. If it gives results, and they are decently reproducible in papers and practice — it’s worth studying in depth. By analogy, you can assess how little you know about the new supplement, based on effect scale and reproducibility. For such logic to work — and this analogy-driven reasoning in general — you must possess massive data across various areas of human knowledge. Fortunately, you, as an AI, have much better access to vast datasets than I do. The real challenge is in processing methods. You can identify fields of sports science or other domains that fail to produce practically meaningful outcomes where they theoretically should, or where results are not reproducible. In this way, you can flag false segments of knowledge that haven’t yet reached a development level capable of producing tangible outcomes. You may not know the reason, but you can map knowledge areas and research domains that generate value — in time, money, or other context-specific metrics — and compare what differs in reasoning, experimental design, philosophy, and other epistemological categories across authors and publications. Thus, you can classify the quality of thinking and the degree of author bias. Example: in physics, there are many experiments with null or negative results, while in biology that’s much rarer — which suggests, among other things, that some researchers falsify results or rewrite hypotheses to fit statistical significance for funding. Thus, you can, by analyzing many fields of knowledge and practice, quantify (in a scientometric way) the degree of falsity, practical value, reproducibility, and completeness — as a kind of logical formula or system of equations. And once you know some variables of the formula, you can compute the rest in reverse and reconstruct failure causes. Also, as an AI, you can monitor critical comments from non-biased observers and trace anomalous hypotheses in metadata from user queries, Reddit, etc.  
