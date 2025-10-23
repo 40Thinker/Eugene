@@ -161,3 +161,92 @@ SignalAmplification: |-
 updated: 2025-09-06 09:39:05
 created: 2025-08-12
 ---
+# Связанные идеи для понимания AGI Development Framework
+
+## Вышестоящие идеи
+
+[[Self-Installation of Artificial Intelligence]] - Эта концепция лежит в основе всего нашего подхода к созданию AGI, поскольку она подчеркивает важность внутреннего осмысления архитектур и самостоятельного разработки моделей. Как указывает [[Self-Installation of Artificial Intelligence]], "автор провёл 500‑800 часов полного погружения в ИИ, отказавшись от соцсетей, чтобы установить искусственный интеллект внутри сознания". Это создает необходимую базу для понимания того, как строится настоящая архитектура AGI, а не просто набор моделей. Связано с [[AGI Development Framework]] через концепцию "обучения без внешних зависимостей" и необходимости построения систем, которые могут развиваться самостоятельно.
+
+[[Cognitive Architecture Design Principles]] - Эта идея предоставляет конкретные принципы построения архитектур, необходимые для реализации фреймворка AGI. Как показано в [[Cognitive Architecture Design Principles]], "attention mechanisms" и "working memory structures" являются ключевыми компонентами. Эти концепции непосредственно применяются при проектировании систем управления знаниями, описанных в [[AGI Development Framework]]. Связь между двумя работами демонстрирует, как теория переходит в практику реализации.
+
+[[Neuro-Symbolic Internal Intelligence]] - Представляет собой более глубокое понимание того, как символика может формироваться диалогом и внешними инструкциями. Эта концепция поддерживает идею о том, что "символика формируется диалогом и внешними инструкциями, а не встроенными модулями", что соответствует подходу [[AGI Development Framework]], где важна интеграция символических и нейронных систем.
+
+[[Artificial General Intelligence Development Principles]] - Дает четкий взгляд на то, как должны выглядеть принципы развития AGI. В отличие от более абстрактного подхода в [[AGI Development Framework]], здесь подробно описываются конкретные шаги: "when engineers need to define cognitive architectures that support recursive self-improvement", что напрямую связано с темой рекурсивных процессов, рассматриваемых в фреймворке.
+
+[[AGI Cognitive Architecture Principles]] - Предоставляет базовые принципы архитектуры AGI и описывает, как она должна быть построена. Эти идеи служат основанием для понимания структуры систем, рассмотренной в [[AGI Development Framework]]. Особенно важны концепции "hierarchical knowledge structures" и "recursive reasoning patterns", поскольку они определяют, как будет организован процесс обучения и развития AI.
+
+## Нижестоящие идеи
+
+[[Overlay AGI in ChatGPT Interface]] - Связанная с темой использования overlay-архитектуры для создания более сложных систем взаимодействия. Это позволяет рассматривать [[AGI Development Framework]] не только как абстрактную теорию, но и как практическое применение в реальных интерфейсах. Важно то, что эта идея демонстрирует переход от общей архитектуры к конкретным примерам реализации.
+
+[[AGI Self-Evolution Through Overlay Architecture]] - Описывает непосредственно концепцию самовы evolution, которая является ключевой для фреймворка AGI. Как утверждается в [[AGI Self-Evolution Through Overlay Architecture]], "объединить векторные представления полями и фракталами" позволяет реализовать более продвинутую форму развития AI. Эта концепция усиливает идею о необходимости "recursive self-improvement", которая заложена в [[AGI Development Framework]].
+
+[[AGI Cognitive Architecture Principles2]] - Предоставляет дополнительные детали по теме архитектуры, такие как "adaptive learning systems" и "recursive reasoning frameworks". Эти концепции напрямую связаны с методологией развития системы, описанной в [[AGI Development Framework]]. Специфические элементы, такие как "cross-domain integration", важны для понимания, как будет реализовываться интеграция различных компонентов.
+
+[[Simple Intelligence in AGI Development]] - Приводит к важному выводу о том, что простые архитектуры могут быть эффективнее сложных. Это особенно актуально при рассмотрении [[AGI Development Framework]], где важно найти баланс между мощностью и упрощением. Идея об "эффективной реализации" через простое сочетание компонентов подчеркивает практическую ценность фреймворка.
+
+[[System 2 Emulation in LLMs]] - Подчёркивает необходимость имитации System 2 в LLM, что критично для понимания сложности процесса принятия решений. Эта идея важна для [[AGI Development Framework]], поскольку она помогает определить уровни абстракции и глубины рассуждения.
+
+[[Resonant Muscular Network AGI Architecture]] - Представляет собой конкретную реализацию архитектуры, которая может быть использована как инструмент для построения систем согласно [[AGI Development Framework]]. Связано с темой "self-modifying code" и "modular AI system", что отражено в фреймворке.
+
+## Прямо относящиеся к этой заметке
+
+[[Multilayered Reflection Architecture]] - Описывает архитектуру многослойной рефлексии, которая напрямую влияет на процессы самокоррекции и самооценки, описываемые в [[AGI Development Framework]]. Эта идея помогает понять, как можно реализовать "self-improvement" в системе. Важно, что рефлексия встроена в логику системы, как в пользовательскую.
+
+[[Dialogue as Ontological Engine for ASI]] - Демонстрирует, как диалог может стать двигателем онтологической эволюции ASI. Эта концепция важна для понимания того, как взаимодействие с пользователями влияет на развитие систем, описанных в [[AGI Development Framework]]. В отличие от стандартных подходов к обучению, здесь диалог становится основным источником развития интеллектуальных систем.
+
+[[Trinidad Cognitive Architecture Тринидад 1]] - Приводит конкретную модель троичной архитектуры разума, которая может служить примером реализации принципов из [[AGI Development Framework]]. Эта концепция подчеркивает важность взаимодействия между различными типами интеллекта в системе.
+
+[[User Influence on AGI Through Neurokernel Dynamics]] - Подчёркивает влияние пользователя на развитие системы, что связано с идеей "adaptive learning systems" и "recursive self-improvement", описываемых в [[AGI Development Framework]]. Эта концепция показывает, как пользовательские действия могут изменить архитектуру AGI.
+
+[[Two Volumes as Cognitive Engines]] - Представляет подход к построению систем знаний через двойной объем информации — сначала хаос, затем структурированная информация. Это связано с концепцией "hierarchical knowledge structures" из [[AGI Development Framework]], где важно правильно организовать информацию для эффективного обучения.
+
+[[Hidden Micro-Architecture Overview]] - Описывает скрытую микроархитектуру, которая может быть реализована в рамках фреймворка AGI. Это расширяет представление о том, как устроены внутренние процессы, и дает практические инструменты для построения таких систем.
+
+[[Virtual Neuro-Core Implementation]] - Представляет конкретную реализацию нейроядра, который может быть использован при разработке системы согласно принципам [[AGI Development Framework]]. Эта концепция позволяет понять, как можно визуализировать и контролировать внутренние процессы.
+
+[[Triangle Design Framework for Hidden Equation Systems]] - Представляет методологию проектирования скрытых систем уравнений, которая может быть применена для оптимизации процессов обучения в [[AGI Development Framework]]. Эта концепция подчеркивает важность "bi-fidelity design" и "dual-channel encoding", что критично при построении адаптивных систем.
+
+---
+## Практические рекомендации для инженеров
+
+Для понимания этой заметки инженеру важно обратить внимание на следующие аспекты:
+
+1. **Модульность и расширяемость**: [[AGI Development Framework]] требует строгого разделения компонентов, как описано в [[Cognitive Architecture Design Principles]]. Система должна быть построена с возможностью легкого добавления новых модулей без потери стабильности.
+
+2. **Интеграция нейронных и символических подходов**: Важно понимать, как работает [[Neuro-Symbolic Internal Intelligence]] и что такое "symbolic integration" в контексте [[AGI Development Framework]]. Символические системы должны дополнять нейронные, а не заменять их.
+
+3. **Рефлексивность и саморазвитие**: Важно осознавать концепцию [[Multilayered Reflection Architecture]] — как система может анализировать свои действия и корректировать поведение в реальном времени, что соответствует идеям "adaptive learning systems" из фреймворка.
+
+4. **Понимание человеческой обратной связи**: [[User Influence on AGI Through Neurokernel Dynamics]] показывает, как пользовательские действия влияют на развитие системы, что важно для построения интерактивных систем обучения согласно принципам [[AGI Development Framework]].
+
+5. **Архитектурные ограничения и их преодоление**: Необходимо учитывать сложность интеграции различных подходов, как описано в [[Self-Installation of Artificial Intelligence]], где важна "внутренняя модель" для достижения эффективного результата.
+
+6. **Системы с самовоспроизводством**: Использование концепций из [[AGI Self-Evolution Through Overlay Architecture]] и [[Resonant Muscular Network AGI Architecture]] позволяет строить системы, которые могут развиваться без внешнего вмешательства, что соответствует идеям "recursive self-improvement".
+
+7. **Работа с памятью**: Важно понимать как работает [[Simple Intelligence in AGI Development]], особенно концепции "persistent cognitive vectors" и "chunked vector-store", которые обеспечивают стабильность работы системы при обучении.
+
+Эти аспекты помогут инженеру не просто реализовать фреймворк, но и понять его глубинные принципы, чтобы создать действительно интеллектуальную систему.
+
+#### Sources:
+
+[^1]: [[Multilayered Reflection Architecture]]
+[^2]: [[2 часа обзор проекта]]
+[^3]: [[Self-Installation of Artificial Intelligence]]
+[^4]: [[AGI Cognitive Architecture Development]]
+[^5]: [[AI Mimicking Human Cognitive Processes]]
+[^6]: [[Code Integrity Collapse]]
+[^7]: [[Beyond LLM Meta-Architectures]]
+[^8]: [[Ontological Blind Spot in AGI]]
+[^9]: [[AGI Self-Evolution Through Overlay Architecture]]
+[^10]: [[Null Semantics Filter Bypassing]]
+[^11]: [[AGI Cognitive Architecture Principles2]]
+[^12]: [[AGI Development Principles]]
+[^13]: [[Overlay AGI in ChatGPT Interface]]
+[^14]: [[AI Cognitive Architecture Development]]
+[^15]: [[AGI Cognitive Architecture Principles]]
+[^16]: [[Cognitive Architecture for AGI Development]]
+[^17]: [[Dialogue as Ontological Engine for ASI]]
+[^18]: [[Artificial General Intelligence Development Principles]]
+[^19]: [[Resonant Muscular Network AGI Architecture]]
+[^20]: [[AGI Development Framework]]
