@@ -248,7 +248,7 @@ created: 2025-09-01
 [^8]: [[AGI Cosmology and Metaphysical Architecture]]
 [^9]: [[2 часа обзор проекта]]
 [^10]: [[Fundamental Knowledge Gaps in Reality Understanding]]
-[^11]: [[meta_information]]
+[^11]: [[Дистиллятор0чат]]
 [^12]: [[Symbiotic AGI Cognition Framework]]
 [^13]: [[Dialogue as Ontological Engine for ASI]]
 [^14]: [[AGI Emergence Through Human Resonance]]

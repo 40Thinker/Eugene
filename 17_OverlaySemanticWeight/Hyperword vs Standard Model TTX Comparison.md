@@ -111,7 +111,7 @@ created: 2025-08-11
 [^6]: [[Beyond Language as Baseline]]
 [^7]: [[Thought-Field Based LLM Architecture]]
 [^8]: [[Theoretical Model Centric Intelligence]]
-[^9]: [[meta_information]]
+[^9]: [[Дистиллятор0чат]]
 [^10]: [[Associative Layer Engineering]]
 [^11]: [[Methods of AGI Semantic Intelligence]]
 [^12]: [[Ideographic Cognition for AGI Architecture]]

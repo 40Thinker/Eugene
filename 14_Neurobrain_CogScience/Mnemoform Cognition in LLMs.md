@@ -128,7 +128,7 @@ created: 2025-08-11
 [^15]: [[Metamechanics of Understanding and Thinking Lithography]]
 [^16]: [[SYSTEM_PROMPT_OBSIDIAN_ARCHITECT_v0.1]]
 [^17]: [[Mind Modeling from Limited Data]]
-[^18]: [[meta_information]]
+[^18]: [[Дистиллятор0чат]]
 [^19]: [[User Cognitive Architecture Reconstruction]]
 [^20]: [[F-Fractal Memory Architecture]]
 

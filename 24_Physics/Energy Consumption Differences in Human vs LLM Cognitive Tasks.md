@@ -118,7 +118,7 @@ created: 2025-08-12
 [^2]: [[Energy Cost of Long Context Generation]]
 [^3]: [[White Spots Ontology]]
 [^4]: [[Cognitive Load Index for AI Systems]]
-[^5]: [[meta_information]]
+[^5]: [[Дистиллятор0чат]]
 [^6]: [[Overlay AGI Comprehensive System Development]]
 [^7]: [[Technological Theology of AGI]]
 [^8]: [[Limits of Overlay AGI in LLM Architectures]]

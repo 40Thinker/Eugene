@@ -232,3 +232,47 @@ print(resp["choices"][0]["message"]["content"])
 ---  
 
 Если хотите увидеть готовый репозиторий с этим flow (YAML + пример CSV‑таблицы) – дайте знать, пришлю ссылку на GitHub. Удачной сборки!
+
+# Связанные идеи для инженеров
+
+## Вышестоящие идеи
+
+1. [[Overlay AGI Comprehensive System Development]] - Основная архитектура, которая предоставляет контекст для понимания роли человека в системах ИИ и принципов интеграции нейронных компонентов с внешними знаниями
+2. [[System 2 Emulation in LLMs нейро4]] - Ключевой концепт имитации системы 2 Канемана, необходимой для создания действительно эмерджентной интеллектуальности
+3. [[Human Neural Integration for Overlay AGI]] - Связывает человеческие нейронные сигналы с AI-генерацией, что критически важно для создания живого симбиоза
+4. [[AGI Cognitive Architecture Development]] - Теоретическая база для понимания архитектурных принципов, необходимых для реализации overlay AGI
+5. [[Simple Intelligence in AGI Development]] - Показывает важность простых, но эффективных подходов к созданию интеллектуальных систем
+
+## Нижестоящие идеи
+
+1. [[MVP Overlay NeuroSymbolic AGI]] - Минимальная реализация для быстрого начала разработки
+2. [[Two Volumes as Cognitive Engines]] - Примеры практической реализации концепции оверлея в реальных системах
+3. [[Virtual Neuro-Core Implementation]] - Конкретные технические решения по интеграции нейрокора
+4. [[Sub-Logical Network of Meaning]] - Механизмы обработки сложных смысловых структур без классического логического мышления
+5. [[Topological Thought Transformation Module]] - Способ преобразования мыслительных форматов в топологические пространства
+
+## Прямо относящиеся к этой заметке
+
+1. [[27 Overlay AGI]] - Подробное описание архитектурных принципов и компонентов overlay архитектуры
+2. [[11 Overlay AGI]] - Основные концепции и идеи по реализации LLM селекторов
+3. [[18 Overlay AGI]] - Практические примеры использования семантических весов в реальных системах
+4. [[41 Overlay AGI]] - Техническая реализация на основе LangFlow и Python
+5. [[20 Overlay AGI]] - Описание практической реализации компонентов overlay архитектуры
+
+#### Sources
+
+[^1]: [[Overlay AGI Comprehensive System Development]]
+[^2]: [[System 2 Emulation in LLMs нейро4]]
+[^3]: [[Human Neural Integration for Overlay AGI]]
+[^4]: [[AGI Cognitive Architecture Development]]
+[^5]: [[Simple Intelligence in AGI Development]]
+[^6]: [[MVP Overlay NeuroSymbolic AGI]]
+[^7]: [[Two Volumes as Cognitive Engines]]
+[^8]: [[Virtual Neuro-Core Implementation]]
+[^9]: [[Sub-Logical Network of Meaning]]
+[^10]: [[Topological Thought Transformation Module]]
+[^11]: [[27 Overlay AGI]]
+[^12]: [[11 Overlay AGI]]
+[^13]: [[18 Overlay AGI]]
+[^14]: [[41 Overlay AGI]]
+[^15]: [[20 Overlay AGI]]

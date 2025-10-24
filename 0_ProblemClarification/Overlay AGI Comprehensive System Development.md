@@ -346,7 +346,7 @@ END WHILE
 [^2]: [[Comprehensive System Development]]
 [^3]: [[Без названия]]
 [^4]: [[README]]
-[^5]: [[meta_information]]
+[^5]: [[Дистиллятор0чат]]
 [^6]: [[refactor]]
 [^7]: [[01_kirill_agoge_13_08_2025_06_37]]
 [^8]: [[Historical Approaches to Overlay Thinking]]
