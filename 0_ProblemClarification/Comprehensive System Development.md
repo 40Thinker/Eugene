@@ -150,7 +150,7 @@ created: 2025-10-15
 [^5]: [[Predictive Preloading RAG Architecture]]
 [^6]: [[Multi-Agent RAG Pipeline Orchestration]]
 [^7]: [[Comprehensive System Development]]
-[^8]: [[meta_information]]
+[^8]: [[Дистиллятор0чат]]
 [^9]: [[Без названия]]
 [^10]: [[2 часа обзор проекта]]
 [^11]: [[Overlay AGI Comprehensive System Development]]

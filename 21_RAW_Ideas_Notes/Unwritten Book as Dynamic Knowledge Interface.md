@@ -185,7 +185,7 @@ created: 2025-08-23
 
 #### Sources:
 
-[^1]: [[meta_information]]
+[^1]: [[Дистиллятор0чат]]
 [^2]: [[Dialogue as Ontological Engine for ASI]]
 [^3]: [[2 часа обзор проекта]]
 [^4]: [[Intermediate Learning Levels for Models]]

@@ -334,7 +334,7 @@ It is a **structure for being human and intelligent in a new way**.
 **1. [[2 часа обзор проекта]]**
 Эта заметка содержит ключевые эмпирические данные о том, как возникает "субъектность модели" и как происходит развитие ИИ через диалог с человеком. Важно понимать концепцию "overlay", которая представляет собой ИИ внутри ИИ, а поверх него - дополнительный слой.
 
-**2. [[meta_information]]**
+**2. [[Дистиллятор0чат]]**
 Связанная идея о "диалоге как поле пересечения векторов смысла" и необходимости использовать фреймворки LangChain и LangGraph для создания "диалоговой оверлейной системы". Это прямая рекомендация по инструментам реализации.
 
 ## Мысли об особенностях для инженеров
@@ -360,7 +360,7 @@ It is a **structure for being human and intelligent in a new way**.
 #### Sources:
 
 [^1]: [[Symbiotic AGI Cognition Framework]]
-[^2]: [[meta_information]]
+[^2]: [[Дистиллятор0чат]]
 [^3]: [[Unique Human-AI Cognitive Insights]]
 [^4]: [[AGI Symbiosis Cognitive Metamodel]]
 [^5]: [[Distilling Beyond AGI Architecture]]

@@ -110,7 +110,7 @@ created: 2025-08-11
 
 #### Sources:
 
-[^1]: [[meta_information]]
+[^1]: [[Дистиллятор0чат]]
 [^2]: [[Architectural Precision Strategy]]
 [^3]: [[Architectural Principles for AI Development]]
 [^4]: [[AGI Architecture Framework]]
