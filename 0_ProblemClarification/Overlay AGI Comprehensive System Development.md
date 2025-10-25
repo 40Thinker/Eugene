@@ -344,7 +344,7 @@ END WHILE
 
 [^1]: [[Multilayered Reflection Architecture]]
 [^2]: [[Comprehensive System Development]]
-[^3]: [[Без названия]]
+[^3]: [[ээг]]
 [^4]: [[README]]
 [^5]: [[Дистиллятор0чат]]
 [^6]: [[refactor]]
