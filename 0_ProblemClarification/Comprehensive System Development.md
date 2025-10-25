@@ -151,7 +151,7 @@ created: 2025-10-15
 [^6]: [[Multi-Agent RAG Pipeline Orchestration]]
 [^7]: [[Comprehensive System Development]]
 [^8]: [[Дистиллятор0чат]]
-[^9]: [[Без названия]]
+[^9]: [[ээг]]
 [^10]: [[2 часа обзор проекта]]
 [^11]: [[Overlay AGI Comprehensive System Development]]
 [^12]: [[Overlay AGI Limitations and Simulation Depth]]
