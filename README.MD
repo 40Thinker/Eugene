@@ -2,6 +2,8 @@
 
 PROJECT OVERVIEW AND ARCHITECTURAL FOUNDATIONS
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/40Thinker/Eugene)
+
 ## 1️⃣ PROJECT INTRODUCTION AND PURPOSE
 
 ### 💡 What is the Overlay AGI Project?
