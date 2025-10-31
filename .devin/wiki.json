@@ -1,13 +1,17 @@
 {
   "repo_notes": [
     {
-      "content": ""
+      "content": "OVERLAY AGI project started 02-05/May/2025.
+
+The Overlay Artificial General Intelligence (Overlay AGI) project represents a comprehensive, practical approach to developing artificial intelligence systems that combine neural processing with symbolic reasoning and external knowledge management. Unlike traditional AI research focused primarily on theoretical frameworks or mathematical models, this project emphasizes building complete, working systems that can be deployed in real-world applications while maintaining scientific rigor and cognitive plausibility.
+
+This system is specifically designed to address fundamental limitations found in current artificial intelligence approaches - particularly the over-reliance on massive parameter training, opaque decision-making processes, and lack of efficient knowledge organization. The project's goal is to create AI systems that can reason effectively, maintain transparency, operate efficiently across diverse contexts, and evolve continuously through human feedback while remaining grounded in biological principles of cognition."
     }
   ],
   "pages": [
     {
-      "title": "Overview",
-      "purpose": "Introduce the Eugene repository, explaining its mission to develop open-source AGI/ASI through documented cognitive architectures, knowledge management systems, and experimental implementations",
+      "title": "FolderStructure",
+      "purpose": "Describes the complete folder structure of the project, explaining how different folders relate to each other and what content they typically contain. Serves as a global overview of the organizational architecture.",
       "page_notes": [
         {
           "content": ""
@@ -15,9 +19,8 @@
       ]
     },
     {
-      "title": "Project Vision and Goals",
-      "purpose": "Detail the project's mission to create open-source AGI/ASI documentation, prevent proprietary monopolies, and enable no-code implementations for widespread access",
-      "parent": "Overview",
+      "title": "ProblemClarification",
+      "purpose": "Describes the fundamental problems in artificial intelligence development that the project specifically addresses, detailing current industry shortcomings and model limitations, and explaining the need for the overlay architecture.",
       "page_notes": [
         {
           "content": ""
@@ -25,9 +28,17 @@
       ]
     },
     {
-      "title": "Repository Structure",
-      "purpose": "Explain the organization of the knowledge base, including topic-based directories, data ingestion pipeline, and research domain organization ",
-      "parent": "Overview",
+      "title": "ProjectHistory",
+      "purpose": "Contains files describing the historical progression of project development, including personal reflections, development milestones, retrospective insights, and evolutionary thoughts about how ideas have developed over time.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+        ]
+    },
+    {
+      "title": "Project_Review",
+      "purpose": "Contains brief summaries or reviews of the overall project status, providing quick snapshots of current achievements, challenges, development phases, or strategic decisions made during the project lifecycle.",
       "page_notes": [
         {
           "content": ""
@@ -35,8 +46,8 @@
       ]
     },
     {
-      "title": "Knowledge Management Infrastructure",
-      "purpose": "Overview of how the project organizes, processes, and stores AI research knowledge from multiple sources",
+      "title": "Token_Litography",
+      "purpose": "Covers files discussing token-level processing and specialized word selection methods, explaining how the system handles individual tokens as fundamental building blocks for reasoning.",
       "page_notes": [
         {
           "content": ""
@@ -44,9 +55,8 @@
       ]
     },
     {
-      "title": "Personal Knowledge Base",
-      "purpose": "Describe the directory-based organization system, data ingestion pipeline (stages 3-7), and research domain categorization",
-      "parent": "Knowledge Management Infrastructure",
+      "title": "LLM_Selector",
+      "purpose": "Covers all aspects of the LLM selector architecture, describing how a small language model chooses from specific candidate sets using semantic weights and external knowledge tables instead of full neural generation.",
       "page_notes": [
         {
           "content": ""
@@ -54,9 +64,8 @@
       ]
     },
     {
-      "title": "Obsidian Integration",
-      "purpose": "Explain how Obsidian serves as the knowledge hub, providing note-taking, linking, and semantic search capabilities",
-      "parent": "Knowledge Management Infrastructure",
+      "title": "Software",
+      "purpose": "Covers software packages, tools, or infrastructure used in development, including CUDA frameworks, LangFlow components, Python libraries, Docker configurations, and API integrations.",
       "page_notes": [
         {
           "content": ""
@@ -64,8 +73,8 @@
       ]
     },
     {
-      "title": "Cognitive Architecture Systems",
-      "purpose": "Overview of the 8_PoV_Router cognitive systems that form the core AGI architecture, organized into state management, reasoning, routing, and context management domains",
+      "title": "Hardware",
+      "purpose": "Encompasses files discussing hardware requirements for building the AI system, covering server selection criteria, component specifications, and performance considerations for the overlay architecture design.",
       "page_notes": [
         {
           "content": ""
@@ -73,9 +82,8 @@
       ]
     },
     {
-      "title": "State Management Systems",
-      "purpose": "Explain systems that track and transition between cognitive states, including state machines and frame detection",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Neurobrain_CogScience",
+      "purpose": "Contains research related to neuroscience, brain function, and cognitive processes, explaining how human thinking patterns and neural dynamics relate to the architectural decisions in the system.",
       "page_notes": [
         {
           "content": ""
@@ -83,9 +91,8 @@
       ]
     },
     {
-      "title": "AGI State Transitions and Cognitive Routing",
-      "purpose": "Document the state machine architecture with states (Dormant, Primed, Coherence Cascade, Meta-Awareness, Dissonant Thread) and transition mechanisms",
-      "parent": "Cognitive Architecture Systems",
+      "title": "CodingAgent",
+      "purpose": "Covers files related to programming agents or AI assistants that help with code development, detailing how the system generates code solutions using overlay principles combined with semantic knowledge structures.",
       "page_notes": [
         {
           "content": ""
@@ -93,9 +100,8 @@
       ]
     },
     {
-      "title": "Frame-Controlled AGI Reasoning",
-      "purpose": "Describe the frame detector, module router, and YAML-based configuration system for decoupling reasoning from LLMs",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Sport_Bio_Agent",
+      "purpose": "Describes biological and sports-related agent systems, exploring how the overlay approach extends to physical activities, biological processes, or sports performance analysis.",
       "page_notes": [
         {
           "content": ""
@@ -103,9 +109,8 @@
       ]
     },
     {
-      "title": "Reasoning and Deliberation Systems",
-      "purpose": "Explain multi-perspective internal dialogue systems that enable polylogical reasoning and self-counseling",
-      "parent": "Cognitive Architecture Systems",
+      "title": "OverlaySemanticWeight",
+      "purpose": "Crucial for files describing semantic weight management techniques outside of LLMs, explaining how the system stores and uses semantic weights as external knowledge tables that guide decision-making.",
       "page_notes": [
         {
           "content": ""
@@ -113,9 +118,8 @@
       ]
     },
     {
-      "title": "Internal Council for AGI Decision Making",
-      "purpose": "Detail the CONSILIUM-TRIGGER mechanism, cognitive personas (Philosophical, ML Engineer, Ethics Regulator, etc.), and polylogical modeling approach",
-      "parent": "Cognitive Architecture Systems",
+      "title": "IT_specialists",
+      "purpose": "Deals with information technology specialists and team composition, detailing recruitment requirements and specific competencies needed to support the overlay architecture.",
       "page_notes": [
         {
           "content": ""
@@ -123,9 +127,8 @@
       ]
     },
     {
-      "title": "ECHO-PARLIAMENT: Recursive Collective Thinking",
-      "purpose": "Explain the recursive internal deliberation system with echo-seeders, dialogue core, conflict matrix, and depth protocol",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Other",
+      "purpose": "A catch-all category for files that don't neatly fit into any other category or where primary classification confidence is below 80%.",
       "page_notes": [
         {
           "content": ""
@@ -133,9 +136,8 @@
       ]
     },
     {
-      "title": "Routing and Orchestration Systems",
-      "purpose": "Overview of systems that coordinate multiple AI instances, manage query routing, and orchestrate distributed agents",
-      "parent": "Cognitive Architecture Systems",
+      "title": "RAW_Ideas_Chat",
+      "purpose": "Handles raw ideas that emerged from chat conversations, representing spontaneous thoughts or insights collected during interactions with AI systems.",
       "page_notes": [
         {
           "content": ""
@@ -143,9 +145,8 @@
       ]
     },
     {
-      "title": "Cognitive Routing Architecture",
-      "purpose": "Document the multi-layered routing system with intent detection, query classification (light vs. deep), fractal parallelization, and adaptive rerouting",
-      "parent": "Cognitive Architecture Systems",
+      "title": "RAW_Ideas_Notes",
+      "purpose": "Covers files containing raw ideas captured as simple notes instead of structured documents, often informal observations or brief conceptual sketches needing further processing.",
       "page_notes": [
         {
           "content": ""
@@ -153,9 +154,8 @@
       ]
     },
     {
-      "title": "Multi-Agent RAG Pipeline Orchestration",
-      "purpose": "Explain the n8n-based multi-agent RAG system with web search, local search, and intent-aware reformulation agents for epistemic triangulation",
-      "parent": "Cognitive Architecture Systems",
+      "title": "AI_Research_mainstream",
+      "purpose": "Documents mainstream AI research approaches, established methods, and standard practices, contrasting them with the overlay approach.",
       "page_notes": [
         {
           "content": ""
@@ -163,9 +163,8 @@
       ]
     },
     {
-      "title": "Multiplexed ChatGPT Shell",
-      "purpose": "Describe the macro-driven orchestration system that coordinates multiple ChatGPT windows as epistemic agent nodes with prompt compression and semantic event bus",
-      "parent": "Cognitive Architecture Systems",
+      "title": "SimilarProjects",
+      "purpose": "Contains files describing projects similar to yours that were studied or referenced, providing comparison analysis of other approaches to AI architecture.",
       "page_notes": [
         {
           "content": ""
@@ -173,9 +172,8 @@
       ]
     },
     {
-      "title": "Knowledge and Context Management Systems",
-      "purpose": "Overview of systems that understand deployment contexts, manage information saturation, and build relational orientation",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Physics",
+      "purpose": "Handles discussions about physical world principles, physics concepts, and applications of AI in studying material reality using overlay architecture concepts.",
       "page_notes": [
         {
           "content": ""
@@ -183,9 +181,8 @@
       ]
     },
     {
-      "title": "Architecture of Deployment Perception",
-      "purpose": "Detail the meta-modules (TRAJECTORY-MAPPER, PERSONA-LENS-GENERATOR, FAILURE-TOPOLOGY-ENGINE, etc.) for understanding deployment processes",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Human_Output",
+      "purpose": "Covers files discussing how humans produce speech or communication input into the system, describing preferred formats and processing inputs from human thought patterns.",
       "page_notes": [
         {
           "content": ""
@@ -193,9 +190,8 @@
       ]
     },
     {
-      "title": "Meta-Strategy for Deployment Perception",
-      "purpose": "Explain the orientation engine concept, relational understanding approach, and counter-initiation clause for safe deployment",
-      "parent": "Cognitive Architecture Systems",
+      "title": "AGI_Input",
+      "purpose": "Details methods for how the AI systems receive input data, including voice recognition processes, graphical user interfaces, and conversion of human requests into actionable information.",
       "page_notes": [
         {
           "content": ""
@@ -203,9 +199,8 @@
       ]
     },
     {
-      "title": "Emergent Saturation and Cognitive ROI",
-      "purpose": "Document the n8n-based distributed AGI council architecture for knowledge optimization, cognitive ROI analysis, and emergent reading skills",
-      "parent": "Cognitive Architecture Systems",
+      "title": "Input_Enchance",
+      "purpose": "Covers the crucial 20-30 step process of enhancing human desires, explaining how detailed input is captured through multiple phases of analysis to better understand user intent.",
       "page_notes": [
         {
           "content": ""
@@ -213,8 +208,8 @@
       ]
     },
     {
-      "title": "Implementation Architecture",
-      "purpose": "Explain the concrete Overlay AGI architecture with IT-LM selectors, semantic weight tables, and O(1) computational efficiency",
+      "title": "Input_Context_Expand",
+      "purpose": "Describes methods for expanding the context of user requests by generating specification details or lists of tasks that are not explicitly mentioned in the initial input.",
       "page_notes": [
         {
           "content": ""
@@ -222,9 +217,8 @@
       ]
     },
     {
-      "title": "Overlay AGI Architecture",
-      "purpose": "Detail the three-layer architecture (External Knowledge Base, Neural Processing Layer, Symbolic Reasoning Components) and its biological plausibility",
-      "parent": "Implementation Architecture",
+      "title": "Input_Convert_to_InnerThink",
+      "purpose": "Explains conversion processes that transform user requests and specifications into internal dialogue structures within the AI's thinking process, maintaining natural thought flow.",
       "page_notes": [
         {
           "content": ""
@@ -232,9 +226,8 @@
       ]
     },
     {
-      "title": "Core Components",
-      "purpose": "Explain IT-LM selectors, semantic weight tables, global score accumulator, and RAG retrieval system implementations",
-      "parent": "Implementation Architecture",
+      "title": "Metod_Of_Think",
+      "purpose": "Collects various methods for thinking approaches that can be applied in the system, describing different reasoning patterns, cognitive frameworks, or analytical techniques.",
       "page_notes": [
         {
           "content": ""
@@ -242,8 +235,8 @@
       ]
     },
     {
-      "title": "Experimental Concepts",
-      "purpose": "Overview of experimental validation approaches including Token Lithography and prompt engineering techniques",
+      "title": "PoV_Router",
+      "purpose": "Covers files describing Point of View routing mechanisms, explaining how the system implements expert switching and model selection based on current context within the overlay framework.",
       "page_notes": [
         {
           "content": ""
@@ -251,37 +244,8 @@
       ]
     },
     {
-      "title": "Token Lithography",
-      "purpose": "Describe experimental approaches to atomic generation units, ping-pong prompting, emergent logic, and fractal mechanics",
-      "parent": "Experimental Concepts",
-      "page_notes": [
-        {
-          "content": ""
-        }
-      ]
-    },
-    {
-      "title": "Technology Stack and Integration",
-      "purpose": "Document the tools, frameworks, and technologies used across cognitive systems (Python, PyTorch, Neo4j, LangChain, n8n, Apache Kafka, Docker, Kubernetes, etc.)",
-      "page_notes": [
-        {
-          "content": ""
-        }
-      ]
-    },
-    {
-      "title": "Reference",
-      "purpose": "Reference materials including license information and project metadata",
-      "page_notes": [
-        {
-          "content": ""
-        }
-      ]
-    },
-    {
-      "title": "License",
-      "purpose": "Apache License 2.0 terms and conditions",
-      "parent": "Reference",
+      "title": "Overlay_NeuralNet_N2S",
+      "purpose": "Covers ideas specifically related to the neuro-neuro-symbolic (N²S) architecture, detailing how neural components are combined with symbolic structures and overlay layers.",
       "page_notes": [
         {
           "content": ""
