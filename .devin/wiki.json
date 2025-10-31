@@ -1,11 +1,7 @@
 {
   "repo_notes": [
     {
-      "content": "OVERLAY AGI project started 02-05/May/2025.
-
-The Overlay Artificial General Intelligence (Overlay AGI) project represents a comprehensive, practical approach to developing artificial intelligence systems that combine neural processing with symbolic reasoning and external knowledge management. Unlike traditional AI research focused primarily on theoretical frameworks or mathematical models, this project emphasizes building complete, working systems that can be deployed in real-world applications while maintaining scientific rigor and cognitive plausibility.
-
-This system is specifically designed to address fundamental limitations found in current artificial intelligence approaches - particularly the over-reliance on massive parameter training, opaque decision-making processes, and lack of efficient knowledge organization. The project's goal is to create AI systems that can reason effectively, maintain transparency, operate efficiently across diverse contexts, and evolve continuously through human feedback while remaining grounded in biological principles of cognition."
+      "content": "OVERLAY AGI project started 02-05/May/2025. The Overlay Artificial General Intelligence (Overlay AGI) project represents a comprehensive, practical approach to developing artificial intelligence systems that combine neural processing with symbolic reasoning and external knowledge management. Unlike traditional AI research focused primarily on theoretical frameworks or mathematical models, this project emphasizes building complete, working systems that can be deployed in real-world applications while maintaining scientific rigor and cognitive plausibility.This system is specifically designed to address fundamental limitations found in current artificial intelligence approaches - particularly the over-reliance on massive parameter training, opaque decision-making processes, and lack of efficient knowledge organization. The project's goal is to create AI systems that can reason effectively, maintain transparency, operate efficiently across diverse contexts, and evolve continuously through human feedback while remaining grounded in biological principles of cognition."
     }
   ],
   "pages": [
@@ -34,7 +30,7 @@ This system is specifically designed to address fundamental limitations found in
         {
           "content": ""
         }
-        ]
+      ]
     },
     {
       "title": "Project_Review",
